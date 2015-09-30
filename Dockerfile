@@ -1,5 +1,5 @@
 FROM nginx
-MAINTAINER MarvAmBass
+MAINTAINER dgregory
 
 ENV LANG C.UTF-8
 
